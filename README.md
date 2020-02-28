@@ -2,7 +2,7 @@
 title: "README"
 author: "Genevieve Jacobs"
 date: "2/26/2020"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
